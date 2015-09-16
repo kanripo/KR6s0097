@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 貞元新定釋教目錄
+#+DATE: 2015-08-31 00:18:15.734087
+#+PROPERTY: JUAN 0
