@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2157
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6s0097_T_026-0987b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 26
 ¶
@@ -607,7 +607,7 @@
   * 鏡面王經一卷(六度集中亦有此經與此大同出上卷)¶
   * 老少俱死經一卷(祐云失譯出上卷)　新編上¶
   * 彌勒難經一卷(祐云失經出上卷)　新編上¶
-  * 勇辭梵志經一卷(出上卷)¶
+  * [戒-廾+角]辭梵志經一卷(出上卷)¶
   * 婬人曳踵行經一卷(房云失譯六度集中亦有與此大同出七卷)¶
   * 兜勒梵志經一卷(出下卷新編上)¶
   * 猛觀梵志經一卷(出下卷)¶

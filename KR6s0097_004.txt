@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2157
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6s0097_T_004-0792c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
@@ -328,7 +328,7 @@
   * 歡豫經一卷(法經錄云歡豫云出阿含第十二)¶
   * 十二死經一卷(今疑是十二品生死經)¶
   * 七婦經一卷¶
-  * 阿難邠坻四時施經一卷(舊錄云阿難邠祁四時布施經)¶
+  * 阿難邠[土*(系-小)]四時施經一卷(舊錄云阿難邠祁四時布施經)¶
   * 七車經一卷(今疑是中阿含七車譬喻經)¶
   * 海有八事經一卷¶
   * 難等各等經一卷(舊錄云阿難迦葉各說第一經)¶

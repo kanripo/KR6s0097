@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2157
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6s0097_T_012-0859a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
@@ -229,7 +229,7 @@
 亡後重疊降恩。求之古人無以加也。於是素¶
 蓋素幢浮空雲合。哀笳哀梵氣遏人神。四俗¶
 以之悲涼。七眾惜其沈沒。以四月十五日葬¶
-於滻東白鹿原四十里中。皂素彌滿其塋與¶
+於[滻-文+(立-一)]東白鹿原四十里中。皂素彌滿其塋與¶
 兄捷公相近。苕然白塔近燭帝城。禁中多見¶
 時傷聖慮。至總章元年四月八日。有勅改葬¶
 [(樊-爻+ㄠ)/邑]川北原。與州縣相知供給吏力乃又出之。¶
