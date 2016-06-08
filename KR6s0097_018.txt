@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:14.697156
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:41
 #+TITLE: 貞元新定釋教目錄
 #+PROPERTY: CBETA_ID T55n2157
 #+PROPERTY: ID KR6s0097
@@ -20,7 +20,7 @@
 :END:
 ¶
 
-敘列古今諸家目錄
+*** 敘列古今諸家目錄
 :PROPERTIES:
 :head: 敘列古今諸家目錄之一
 :END:
